@@ -115,6 +115,7 @@ Please ensure your pull request adheres to the following guidelines:
 - [Just Javascript](https://justjavascript.com/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Leetcode](https://leetcode.com/)
+- [Libre Academy](https://libre.academy)
 - [Linkedin Learning](https://www.linkedin.com/learning/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com)
 - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
